@@ -1,0 +1,6 @@
+c:\users\anika\documents\visual studio 2013\Projects\9prithagoreantriplet\9prithagoreantriplet\bin\Debug\9prithagoreantriplet.exe.config
+c:\users\anika\documents\visual studio 2013\Projects\9prithagoreantriplet\9prithagoreantriplet\bin\Debug\9prithagoreantriplet.exe
+c:\users\anika\documents\visual studio 2013\Projects\9prithagoreantriplet\9prithagoreantriplet\bin\Debug\9prithagoreantriplet.pdb
+c:\users\anika\documents\visual studio 2013\Projects\9prithagoreantriplet\9prithagoreantriplet\obj\Debug\9prithagoreantriplet.csprojResolveAssemblyReference.cache
+c:\users\anika\documents\visual studio 2013\Projects\9prithagoreantriplet\9prithagoreantriplet\obj\Debug\9prithagoreantriplet.exe
+c:\users\anika\documents\visual studio 2013\Projects\9prithagoreantriplet\9prithagoreantriplet\obj\Debug\9prithagoreantriplet.pdb
